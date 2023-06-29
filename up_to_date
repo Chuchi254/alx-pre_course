@@ -1,0 +1,11 @@
+git clone https://{personal access token}@github.com/{username}/alx-pre_course.git
+git config --global user.email "samsongikonyo142@gmail.com"
+git config --global user.name "Samson G. Njogu"
+git add . - to add files
+git commit -m 'message'- to commit a file
+git push origin - to push a file or directory to github repository
+git branch {branch name}- to create a new branch
+git checkout {branch name}- to change into another branch
+git status- to change the current state of your repository and view the changes that have been made
+git log- check the history of commits
+git remote rm <filename or repository> - delete a file or repository
